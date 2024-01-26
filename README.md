@@ -7,15 +7,12 @@ Implementation of MambaByte in "MambaByte: Token-free Selective State Space Mode
 
 ## Installation
 
-You can install the package using pip
-
 ```bash
-pip install -e .
+pip install mambabyte
 ```
 
 # Usage
 ```python
-print("hello world")
 
 ```
 
