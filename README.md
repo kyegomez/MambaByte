@@ -17,6 +17,7 @@ import torch
 from mambabyte import MambaConfig, Mamba
 
 x = torch.randn(2, 3, 4)
+
 config = MambaConfig(
     dim = 4,
     depth = 3,
