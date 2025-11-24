@@ -14,7 +14,7 @@ pip install mambabyte
 # Usage
 ```python
 import torch 
-from mambabyte import MambaConfig, Mamba
+from mambabyte.model import MambaConfig, Mamba
 
 x = torch.randn(2, 3, 4)
 
